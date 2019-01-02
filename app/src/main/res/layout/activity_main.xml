@@ -12,7 +12,7 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:layout_margin="10dp"
+            android:layout_marginBottom="5dp"
             android:layout_weight="1"
             app:srcCompat="@android:color/holo_blue_light" />
         <LinearLayout
